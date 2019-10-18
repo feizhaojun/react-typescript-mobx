@@ -1,4 +1,35 @@
+## About creating this project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Use option `--typescript` to add Typescript:
+
+```
+npx create-react-app react-typescript-mobx --typescript
+```
+
+Add React Router:
+
+```shell
+npm install --save react-router-dom
+# or
+yarn add react-router-dom
+```
+
+Add Sass:
+
+```shell
+npm install node-sass --save
+# or
+yarn add node-sass
+```
+
+Add Mobx:
+
+```shell
+npm install mobx --save
+npm install mobx-react  --save
+```
 
 ## Available Scripts
 
