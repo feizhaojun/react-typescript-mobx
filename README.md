@@ -12,8 +12,10 @@ Add React Router:
 
 ```shell
 npm install --save react-router-dom
+npm install --save @types/react-router-dom
 # or
 yarn add react-router-dom
+yarn add @types/react-router-dom
 ```
 
 Add Sass:
