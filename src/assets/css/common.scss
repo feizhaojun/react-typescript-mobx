@@ -1,0 +1,19 @@
+*{
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #f2f2f2;
+  font-size: 14px;
+  line-height: 30px;
+  padding-left: 20px;
+  a {
+    color: #333;
+    text-decoration: none;
+    &:hover{
+      color: #ff4e00;
+    }
+  }
+}
