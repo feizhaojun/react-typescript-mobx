@@ -8,7 +8,7 @@ Use option `--typescript` to add Typescript:
 npx create-react-app react-typescript-mobx --typescript
 ```
 
-Add React Router:
+Add React Router and a declaration file:
 
 ```shell
 npm install --save react-router-dom
